@@ -1,0 +1,14 @@
+{
+  "name": "@franciscocunha/zoomable-treemap",
+  "main": "6cf4696eae256139@1243.js",
+  "version": "1243.0.0",
+  "homepage": "https://observablehq.com/@franciscocunha/zoomable-treemap",
+  "author": {
+    "name": "Francisco Cunha",
+    "url": "https://observablehq.com/@franciscocunha"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

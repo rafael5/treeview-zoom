@@ -1,0 +1,14 @@
+{
+  "name": "@albutko/cascading-zoomable-treemap",
+  "main": "7c7f86abdd06a405@1968.js",
+  "version": "1968.0.0",
+  "homepage": "https://observablehq.com/@albutko/cascading-zoomable-treemap",
+  "author": {
+    "name": "albutko",
+    "url": "https://observablehq.com/@albutko"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
